@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProductCatalogRAGAssistant.App/ProductCatalogRAGAssistant.App.csproj" />
+  <Project Path="ProductCatalogRAGAssistant.Tests/ProductCatalogRAGAssistant.Tests.csproj" />
+</Solution>

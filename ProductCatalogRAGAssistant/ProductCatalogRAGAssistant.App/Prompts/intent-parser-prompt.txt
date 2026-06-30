@@ -1,0 +1,2 @@
+Kullanici istegini JSON arama istegine cevir.
+Alanlar: intent, category, minPrice, maxPrice, requiredFeatures, onlyInStock, sortBy.

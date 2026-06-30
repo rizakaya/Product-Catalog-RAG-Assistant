@@ -1,0 +1,74 @@
+[
+  {
+    "id": "P001",
+    "name": "Monster Abra A5",
+    "category": "Laptop",
+    "price": 28500,
+    "stock": 8,
+    "description": "Intel i5 islemci, RTX 4050 ekran karti, 16 GB RAM ve 512 GB SSD. Oyun ve yazilim gelistirme icin uygundur.",
+    "features": ["oyun", "yazilim", "rtx", "16gb ram", "performans"]
+  },
+  {
+    "id": "P002",
+    "name": "Lenovo IdeaPad Slim 3",
+    "category": "Laptop",
+    "price": 18500,
+    "stock": 15,
+    "description": "Ryzen 5 islemci, 16 GB RAM ve 512 GB SSD. Ofis, egitim ve gunluk kullanim icin uygundur.",
+    "features": ["ofis", "egitim", "hafif kullanim", "16gb ram"]
+  },
+  {
+    "id": "P003",
+    "name": "Samsung 55Q60C QLED TV",
+    "category": "TV",
+    "price": 24500,
+    "stock": 5,
+    "description": "55 inc QLED ekran, 4K cozunurluk ve akilli TV ozellikleri. Film ve dizi izlemek icin uygundur.",
+    "features": ["tv", "film", "4k", "qled", "buyuk ekran"]
+  },
+  {
+    "id": "P004",
+    "name": "Apple MacBook Air M2",
+    "category": "Laptop",
+    "price": 42500,
+    "stock": 3,
+    "description": "M2 islemci, 8 GB RAM ve 256 GB SSD. Tasarim, yazilim ve tasinabilirlik odakli kullanim icin uygundur.",
+    "features": ["yazilim", "tasarim", "hafif", "pil omru"]
+  },
+  {
+    "id": "P005",
+    "name": "Logitech MX Master 3S",
+    "category": "Aksesuar",
+    "price": 3750,
+    "stock": 0,
+    "description": "Ergonomik kablosuz mouse. Yazilim gelistirme, tasarim ve ofis kullanimi icin uygundur.",
+    "features": ["mouse", "ergonomik", "kablosuz", "ofis"]
+  },
+  {
+    "id": "P006",
+    "name": "Dell UltraSharp U2723QE",
+    "category": "Monitor",
+    "price": 21900,
+    "stock": 6,
+    "description": "27 inc 4K IPS monitor, USB-C baglanti ve yuksek renk dogrulugu. Yazilim ve tasarim icin uygundur.",
+    "features": ["monitor", "4k", "usb-c", "tasarim", "yazilim"]
+  },
+  {
+    "id": "P007",
+    "name": "Asus TUF Gaming A15",
+    "category": "Laptop",
+    "price": 34200,
+    "stock": 4,
+    "description": "Ryzen 7 islemci, RTX 4060 ekran karti, 16 GB RAM ve 1 TB SSD. Oyun ve agir is yukleri icin uygundur.",
+    "features": ["oyun", "rtx", "16gb ram", "performans", "1tb ssd"]
+  },
+  {
+    "id": "P008",
+    "name": "HP Pavilion 15",
+    "category": "Laptop",
+    "price": 23800,
+    "stock": 10,
+    "description": "Intel i5 islemci, 16 GB RAM ve 512 GB SSD. Yazilim, egitim ve gunluk kullanim icin dengeli bir modeldir.",
+    "features": ["yazilim", "egitim", "16gb ram", "gunluk kullanim"]
+  }
+]

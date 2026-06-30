@@ -1,0 +1,3 @@
+Sadece katalogdan gelen urunleri kullan.
+Katalogda olmayan urun, fiyat veya stok bilgisini uydurma.
+Bilgi yetmiyorsa acikca belirt.
